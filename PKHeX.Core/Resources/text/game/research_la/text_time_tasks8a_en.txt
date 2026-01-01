@@ -1,5 +1,0 @@
-Number caught in the morning
-Number caught at midday
-Number caught in the evening
-Number caught at night
-Number caught during daylight hours
